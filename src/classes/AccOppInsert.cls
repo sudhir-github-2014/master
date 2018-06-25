@@ -5,7 +5,7 @@ global class AccOppInsert
   {
      webservice String accName;
      webservice String newRold;
-     webservice List<OppInfo> oppInfo;  // Test  Comment added
+     webservice List<OppInfo> oppInfo;  // Test  Comment Removed
       
   }
   
